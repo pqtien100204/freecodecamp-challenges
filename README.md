@@ -1,1 +1,1 @@
-# freecodecamp-challenges
+# freecodecamp-sql-challenges
